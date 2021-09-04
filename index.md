@@ -13,13 +13,14 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### I wasn't sure if
+#### I had to delete all this or continue
 
-- Bulleted
-- List
+- But I created a list of what i love tho
+- i like creating bulleting lists
+- and i like that i have a friend in a class
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
